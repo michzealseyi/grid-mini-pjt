@@ -6,7 +6,7 @@ function Hero() {
     <div className="body">
       <header className="hero-header">
         <div className="hero-banner">
-          <h1>welcome</h1>
+          <h1>welcome to grid</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
             illum iste officiis debitis vitae soluta.
